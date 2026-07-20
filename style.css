@@ -1208,10 +1208,6 @@ body {
     display: none;
 }
 
-/* =========================================================
-   Click-to-open support (mobile/touch + keyboard, all sizes)
-   ========================================================= */
-
 .nav-toggle {
     display: none;
     align-items: center;
