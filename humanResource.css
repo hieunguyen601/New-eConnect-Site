@@ -855,12 +855,6 @@ body {
     display: none;
 }
 
-/*
-   Compact desktop/tablet — up to 1400px
-   Matches script.js's mobileNavQuery (max-width: 1400px), which relocates
-   .heading-buttons into the nav drawer. The drawer + footer collapse below
-   must activate at the same width or the relocated content overflows.
-*/
 @media (max-width: 1400px) {
     .nav-toggle {
         display: inline-flex;
@@ -1013,9 +1007,6 @@ body {
     }
 }
 
-/*
-   Mobile — up to 768px
-*/
 @media (max-width: 768px) {
     .header2 {
         height: auto;
