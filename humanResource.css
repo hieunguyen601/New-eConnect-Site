@@ -555,14 +555,6 @@ body {
     text-align: center;
 }
 
-.hr-contact-band h2 {
-    margin: 0 0 14px;
-    color: #062E1B;
-    font-family: "Public Sans", sans-serif;
-    font-size: 34px;
-    font-weight: 800;
-}
-
 .hr-contact-email {
     display: inline-block;
     color: #C9430B;
