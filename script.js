@@ -13,7 +13,7 @@ document.addEventListener("DOMContentLoaded", function () {
     const headingButtonsHome = headingButtons ? headingButtons.parentElement : null;
 
     if (headingButtons && headingButtonsHome && navigation) {
-        const mobileNavQuery = window.matchMedia("(max-width: 768px)");
+        const mobileNavQuery = window.matchMedia("(max-width: 1400px)");
 
         function placeHeadingButtons(isMobile) {
             if (isMobile) {
