@@ -1866,9 +1866,6 @@ body {
     }
 }
 
-/*
-   Small mobile — up to 480px
-*/
 @media (max-width: 480px) {
     .title {
         padding: 8px 14px;
