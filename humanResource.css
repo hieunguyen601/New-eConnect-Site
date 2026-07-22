@@ -497,8 +497,8 @@ body {
     border-radius: 10px;
 }
 
-.hr-hero h1 span {
-    color: #7FC69A;
+#slogan {
+    font-size: 30px;
 }
 
 @keyframes moveLeft {
